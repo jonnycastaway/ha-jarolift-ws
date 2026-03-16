@@ -1,0 +1,10 @@
+{
+  "domain": "jarolift",
+  "name": "Jarolift Controller",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/dewenni/ESP32-Jarolift-Controller",
+  "requirements": ["websockets>=11.0"],
+  "iot_class": "local_push",
+  "codeowners": []
+}
