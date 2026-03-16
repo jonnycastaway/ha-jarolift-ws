@@ -1,7 +1,7 @@
 {
   "domain": "jarolift",
   "name": "Jarolift Controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "config_flow": true,
   "documentation": "https://github.com/dewenni/ESP32-Jarolift-Controller",
   "requirements": ["websockets>=11.0"],

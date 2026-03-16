@@ -15,7 +15,7 @@ from .websocket_client import JaroliftWebSocket
 
 _LOGGER = logging.getLogger(__name__)
 
-PLATFORMS = ["cover"]
+PLATFORMS = ["cover", "button"]
 
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
